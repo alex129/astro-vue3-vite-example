@@ -5,7 +5,10 @@ const counterStore = useCounterStore();
 </script>
 
 <template>
-  <div>Counter {{ counterStore.counter }}</div>
+  <!-- Counter Display -->
+  <div class="flex items-center">
+      <span class="text-xl font-semibold mr-4" id="counter">{{ counterStore.counter }}</span>
+  </div>
 </template>
 
 <style scoped></style>
