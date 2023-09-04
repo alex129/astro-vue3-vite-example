@@ -1,5 +1,6 @@
 ---
-import Welcome from "./Welcome.vue";
+import ShowCounter from "@components/ShowCounter.vue";
+import Welcome from "@/Welcome.vue";
 ---
 
 <html lang="en">
@@ -11,6 +12,7 @@ import Welcome from "./Welcome.vue";
 		<title>Astro</title>
 	</head>
 	<body>
-		<Welcome />
+		<Welcome client:load />
+		<!-- <ShowCounter client:load /> -->
 	</body>
 </html>
