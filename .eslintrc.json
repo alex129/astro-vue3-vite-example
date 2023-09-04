@@ -3,7 +3,7 @@
     "overrides": [
         {
             "files": ["./src/**/*.vue", "./src/**/*.ts"],
-            "excludedFiles": ["./src/**/*.test.ts"],
+            "excludedFiles": [],
             "env": {
                 "browser": true,
                 "es2021": true

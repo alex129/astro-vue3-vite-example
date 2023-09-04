@@ -13,7 +13,8 @@
   "dependencies": {
     "@astrojs/vue": "^3.0.0",
     "astro": "^3.0.5",
-    "vitest": "^0.34.2"
+    "vitest": "^0.34.2",
+    "vue": "^3.3.4"
   },
   "devDependencies": {
     "@vue/eslint-config-standard-with-typescript": "^8.0.0",

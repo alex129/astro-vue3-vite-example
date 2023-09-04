@@ -1,9 +1,11 @@
 <script setup>
-const holaa = 'holaa';
+import { ref } from 'vue';
+
+const welcomeAstro = ref('Astro');
 </script>
 
 <template>
-  <div></div>
+  <div>Welcome to Vue with Astro</div>
 </template>
 
 <style scoped></style>
