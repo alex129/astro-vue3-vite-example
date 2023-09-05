@@ -1,6 +1,6 @@
 <script setup lang="ts">
 type Props = {
-  name: string;
+  name?: string;
 };
 
 const { name = '' } = defineProps<Props>();
