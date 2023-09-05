@@ -5,6 +5,7 @@
 - Vitest
 - Vue 3
 - Tailwind Css
+- Eslint
 
 #### Requirements
 
