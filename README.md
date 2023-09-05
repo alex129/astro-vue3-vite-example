@@ -6,18 +6,18 @@
 - Vue 3
 - Tailwind Css
 
-##### Requirements
+#### Requirements
 
 - Node: **18.14.1**
 
-##### Installation
+#### Installation
 
 `npm install`
 
-##### Build
+#### Build
 
 `npm run dev`
 
-##### Tests
+#### Tests
 
 `npm run test`
