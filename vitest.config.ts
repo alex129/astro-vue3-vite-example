@@ -12,6 +12,7 @@ export default getViteConfig({
   resolve: {
     alias: {
       '@': '/src/pages',
+      '@layouts': '/src/layouts',
       '@components': '/src/components',
       '@assets': '/src/shared/assets',
       '@stores': '/src/shared/stores',

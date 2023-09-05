@@ -1,7 +1,7 @@
 import { beforeEach, describe, expect, test } from 'vitest';
 import { mount } from '@vue/test-utils';
 import { createPinia, setActivePinia } from 'pinia';
-import WelcomeVue from '@/Welcome.vue';
+import WelcomeVue from '@components/Welcome.vue';
 
 // create tests to check if welcome component is working
 describe('Welcome Component', () => {
