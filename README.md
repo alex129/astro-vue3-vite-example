@@ -1,8 +1,8 @@
-# Astro + [Vitest](https://vitest.dev/)
+# Astro Vue3 project
 
 ### Technologies
 
-- Vitest
+- [Vitest](https://vitest.dev/)
 - Vue 3
 - Tailwind Css
 - Eslint
